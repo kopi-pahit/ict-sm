@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-Some information about you!
+haaii
 
-### More Information
+ini adalah dokumentasi pembelajaran ICT materi HTML, kami sertakan penjelasan, kode dan video dari sumber-sumber yang kami anggap baik untuk siswa kami. semoga teman-teman siswa bisa mengikuti dan mempraktekkanya dengan baik.
 
-A place to include any other types of information that you'd like to include about yourself.
+_salam hangat_
+_**luqman hermansyah**_
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+>blockquote
+>>### Contact me
+>>[email@domain.com](mailto:luqmanhermansyah3@gmail.com)
